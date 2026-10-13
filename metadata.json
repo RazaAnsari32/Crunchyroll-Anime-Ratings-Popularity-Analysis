@@ -1,0 +1,6 @@
+{
+  "name": "Crunchyroll Anime Ratings & Popularity Analysis",
+  "description": "Intelligent Data Systems Lab Mini Project: Exploratory data analysis, K-Means popularity clustering, and interactive visual analytics for Crunchyroll anime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
